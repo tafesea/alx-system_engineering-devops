@@ -1,2 +1,2 @@
-#!/biin/bash
-find -depth -type d -empty
+#!/bin/bash
+find . -empty -printf %f'\n'
