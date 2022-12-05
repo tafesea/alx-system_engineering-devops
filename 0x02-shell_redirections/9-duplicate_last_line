@@ -1,2 +1,2 @@
 #!/bin/bash
-awk -F'12' '{print $12}' iacta
+tail -n 1 iacta >> iacta
