@@ -1,2 +1,2 @@
 #!/biin/bash
-find ~/lists -empty
+find -depth -type d -empty
