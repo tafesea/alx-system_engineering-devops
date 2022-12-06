@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=/home/dave/work:$PATH
+export PATH=$PATH:/place/with/the/file*:/action
